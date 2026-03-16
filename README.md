@@ -13,7 +13,7 @@ full-stack engineer based in san francisco. i build developer tools, discord bot
 
 **stack**
 
-![stack](https://skillicons.dev/icons?i=ts,react,tailwind,astro,workers,postgres)
+![stack](https://skillicons.dev/icons?i=ts,react,vue,tailwind,astro,workers,postgres)
 
 ---
 
